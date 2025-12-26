@@ -142,7 +142,7 @@
   },
 
   "mpris": {
-	"interval": 10,
+	"interval": 1,
 	"format": "{player_icon} {dynamic}",
 	"format-paused": "{status_icon} {artist} {title}",
 	"on-click-middle": "playerctl play-pause",
@@ -158,6 +158,7 @@
 		"chromium": "",
 		"default": "",
 		"firefox": "",
+		"zen": "󰫫",
 		"kdeconnect": "",
 		"mpd": "",
 		"mpv": "󰐹",
