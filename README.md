@@ -5,7 +5,7 @@ imageine that beach trip to okinawa in your favorite anime, thats this theme. oc
 # Installation
 
 ```bash
-omarchy-theme-install https://github.com/BagpipesRbetter/omarchy-theme-okinawa
+omarchy-theme-install https://github.com/BagpipesRbetter/omarchy-okinawa-theme
 ```
 
 # Extras
