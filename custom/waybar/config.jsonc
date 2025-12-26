@@ -34,7 +34,7 @@
        "persistent-workspaces": {
              "*": 5
        }
-   },    
+   },
   "custom/omarchy": {
     "format": "󰹡",
     "on-click": "omarchy-menu",
@@ -56,7 +56,7 @@
     "on-click": "omarchy-launch-or-focus-tui btop"
   },
     "clock": {
-        "format": " {:%I:%M %p}", // AM PM format
+        "format": "{:%I:%M %p}", // AM PM format
         //"format": "  {:%H:%M}",// 24H
         "format-alt": "{:%A  %e %B}",
         "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>"
@@ -117,7 +117,7 @@
       ]
     }
   },
-  
+
   "group/tray-expander": {
     "orientation": "inherit",
     "drawer": {
@@ -159,7 +159,7 @@
 		"default": "",
 		"firefox": "",
 		"kdeconnect": "",
-		"mopidy": "",
+		"mpd": "",
 		"mpv": "󰐹",
 		"spotify": "󰎆",
 		"vlc": "󰕼",
@@ -224,7 +224,7 @@
 	"modules": [
     "custom/screenrecording-indicator",
     "idle_inhibitor",
-    "custom/update", 
+    "custom/update",
     "custom/separator#blank",
     "bluetooth",
     "network",
@@ -237,5 +237,5 @@
   "custom/bt": {
     "format": "",
   }
-  	
+
 },
