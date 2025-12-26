@@ -3,3 +3,25 @@
 @define-color label #eff3f8;
 @define-color image #eff3f8;
 @define-color progress #6cabda;
+
+window {
+    border-radius: 16px;
+    background: @background-color;
+    border: 2px solid @border-color;
+}
+
+#image {
+   color: @image;
+}
+
+#label {
+   color: @label;
+}
+
+progress, trough {
+    border-radius: 16px;
+}
+
+slider {
+    border-radius: 16px;
+}
